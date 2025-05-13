@@ -1,5 +1,3 @@
-# State-wise-Constituency-Seats-in-India---Power-BI-Dashboard
-PowerBi
 
 # 📊 State-wise Constituency Seats in India - Power BI Dashboard
 
@@ -38,11 +36,6 @@ The data used is simulated to reflect real-world structures of:
 
 > **Note**: The dataset used is for demonstration purposes and may not represent current official election data.
 
-## 🖼️ Screenshots
-
-> Add your screenshot here after uploading  
-> Example:
-> ![Dashboard Preview](./dashboard_preview.png)
 
 ## 🚀 How to Use
 
